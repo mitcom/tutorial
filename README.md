@@ -62,7 +62,7 @@ Either use the GitHub app for your operating system (mentioned above) or `git` c
 
 Then, create a branch for your new changes to sit in. It helps to call the branch something related to the changes you are going to make.
 
-    git checkout -b contributing
+    git switch -c contributing
 
 Download the [GitBook Editor](https://legacy.gitbook.com/editor) app to your computer.
 
